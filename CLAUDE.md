@@ -98,6 +98,7 @@ Use ONLY this data:
 
 ### Identity
 - Name: Abhishek Kumar Gupta
+
 - Alias: अbhi
 - Email: harshabhio88@gmail.com
 - Phone: +91-8931988032
@@ -107,6 +108,7 @@ Use ONLY this data:
 - GitHub: https://github.com/devabhio88
 - LinkedIn: https://www.linkedin.com/in/abhishek-kumar-gupta-88967b21a/
 - Resume: https://drive.google.com/file/d/1iMPgGfqsQNdwnV1l3WVS-tBX0jcGgU2R/view
+- Twitter: https://x.com/Abhi_gupta1o1
 
 ### Summary
 Strong in DSA, full-stack development, and scalable system design, with experience building data-driven applications using React, APIs, and real-time systems. Proven problem-solving ability (400+ DSA problems, Quantiphi selection) and focused on developing reliable, high-performance software at scale.

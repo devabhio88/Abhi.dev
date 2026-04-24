@@ -1,32 +1,34 @@
 # About Me
 
-## Biography
+## Summary
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+Strong in DSA, full-stack development, and scalable system design, with experience building data-driven applications using React, APIs, and real-time systems. Proven problem-solving ability (400+ DSA problems, Quantiphi selection) and focused on developing reliable, high-performance software at scale.
 
-I'm trying to find a balance between research and engineering.
+---
 
-My current research interests primarily focus on understanding and enhancing the continuity, generalizability, efficiency, and other key properties of machine learning. I am also interested in large multimodal models.
+## Skills
 
-I'm also learning web development and building machine learning software and systems.
+**Languages:** C, C++, Python, JavaScript, HTML, CSS, SQL
 
+**Frameworks:** React.js, Redux Toolkit, Tailwind CSS, LangChain
+
+**Platforms:** Supabase, Firebase, Appwrite, N8N
+
+**Core:** DSA, OS, DBMS, OOP
+
+**Tools:** Git, VS Code, Claude Code
+
+---
 
 ## Contact
 
-Contact me by:
+- **Email:** [harshabhio88@gmail.com](mailto:harshabhio88@gmail.com)
+- **GitHub:** [@devabhio88](https://github.com/devabhio88)
+- **LinkedIn:** [Abhishek Kumar Gupta](https://www.linkedin.com/in/abhishek-kumar-gupta-88967b21a/)
+- **Twitter:** [@Abhi_gupta1o1](https://x.com/Abhi_gupta1o1)
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
-
+---
 
 ## Résumé
 
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
-
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)
+[View Resume](https://drive.google.com/file/d/1iMPgGfqsQNdwnV1l3WVS-tBX0jcGgU2R/view)

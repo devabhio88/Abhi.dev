@@ -13,8 +13,17 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I am a PhD student at the Computer Science and
-              Engineering department of Pennsylvania State University.
+              Hi, this is Abhishek Kumar Gupta (अbhi). I am a software developer
+              with strong expertise in DSA, full-stack development, and scalable
+              system design.
+            </div>
+            <div className="mt-2">
+              I have experience building data-driven applications using React,
+              APIs, and real-time systems. I'm a proven problem-solver with 400+
+              DSA problems solved and selection in Quantiphi.
+            </div>
+            <div className="mt-2">
+              I'm focused on developing reliable, high-performance software at scale.
             </div>
           </div>
         )
@@ -23,14 +32,14 @@ const terminal: TerminalData[] = [
         id: "about-interests",
         title: "interests.txt",
         type: "file",
-        content: "Machine Learning / Computer Vision / Multimodal Learning"
+        content: "Full-Stack Development | DSA | AI/LLMs | System Design | React | Tailwind CSS"
       },
       {
         id: "about-who-cares",
         title: "who-cares.txt",
         type: "file",
         content:
-          "I'm looking for a research internship for Summer 2024. I'm open to collaboration on research projects."
+          "Open to opportunities in software development and AI engineering."
       },
       {
         id: "about-contact",
@@ -42,65 +51,55 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:harshabhio88@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                harshabhio88@gmail.com
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/devabhio88"
                 target="_blank"
                 rel="noreferrer"
               >
-                @Renovamen
-              </a>
-            </li>
-            <li>
-              <a
-                className="text-blue-300"
-                href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Google Scholar
+                @devabhio88
               </a>
             </li>
             <li>
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/abhishek-kumar-gupta-88967b21a/"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                Abhishek Kumar Gupta
               </a>
             </li>
             <li>
-              Personal Website:{" "}
+              Twitter:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.me"
+                href="https://x.com/Abhi_gupta1o1"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.me
+                @Abhi_gupta1o1
               </a>
             </li>
             <li>
-              知乎:{" "}
+              Resume:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
+                href="https://drive.google.com/file/d/1iMPgGfqsQNdwnV1l3WVS-tBX0jcGgU2R/view"
                 target="_blank"
                 rel="noreferrer"
               >
-                @西伯利亚大恶龙
+                View Resume
               </a>
             </li>
           </ul>
